@@ -1,0 +1,75 @@
+20190507-01, wpengine, wordpress, wp cli, user management, command-line
+20190507-02, acquia, drupal, varnish, caching
+20190508-01, dns
+20190508-02, its, networking, data center, noc
+20190509-01, acquia, drupal, ssh
+20190509-02, javascript, debugging
+20190509-03, acquia, drupal, logging, web server logs
+20190509-04, ipcontrol, dns, ip addressing, its, networking, noc
+20190510-01, ssl, security certificate
+20190510-02, domain names, whois
+20190510-03, its, mesa
+20190513-01, sucuri, firewall, waf
+20190513-03, acquia, drupal, logging, web server logs
+20190515-01, acquia, aws, drupal, Ubuntu linux, logging, web server logs, Bash Script
+20190522-01, visual identity, logo, brand, colors, graphics, images
+20190603-01, acquia, aws, drupal, help
+20190604-01, its, networking, dns, domain name, EasyVista
+20190604-02, its, networking, dns, domain name
+20190605-01, its, webmaster, tuscany server, tuscany.gmu.edu, web server, ssh, sftp
+20190606-01, its, Webmaster, mason server, mason.gmu.edu, web server, ssh, sftp
+20190606-02, its, webmaster, jiju server, jijua.gmu.edu, jijub.gmu.edu, jijuc.gmu.edu, jiju3.gmu.edu, web server, ssh, sftp, quota, quotas, sudo
+20190606-03, its, Webmaster, eagle server, eagle.gmu.edu, web server, ssh, sftp
+20190607-01, its, ticketing
+20190618-01, its, commonspot, CMS
+20190619-01, its, commonspot, CMS
+20190625-01, its, meeting rooms, conference rooms, administrative
+20190626-01, its, dns
+20190712-01, its, teamdynamix, tdx, ticketing
+20190712-02, its, teamdynamix, tdx, ticketing
+20190806-01, encryption, key pair, linux, git, bash
+20190807-01, wpengine, hosting
+20190814-01, policy, policies, wordpress, its
+20190814-02, wpengine, wordpress, wp cli, user management, command-line
+20190815-01, its, teamdynamix, tdx, ticketing
+20190815-02, wordpress, wpengine
+20190816-01, wordpress, wpengine
+20190816-02, wordpress, wpengine, redirect
+20190816-03, wordpress, wp cli, command line
+20190820-01, .htaccess, linux
+20190820-02, permissions, linux
+20190820-03, sql, database
+20190820-04, linux
+20190820-05, wordpress
+20190821-01, wordpress, wp cli, command line
+20190821-02, sql, mysql, database
+20190821-03, wordpress, linux
+20190821-04, wordpress, plugins
+20190821-05, its, servers, linux
+20190821-06, its, servers, web hosting
+20190821-07, linux
+20190821-08, wordpress, google search applicance, gsa, search
+20190821-09, wordpress, hosting, troubleshooting
+20190821-10, wordpress, migration
+20190821-11, website monitor, aws, bash, linux, ubuntu
+20190822-01, wordpress, migration, plugin
+20190822-02, wordpress, migration
+20190822-03, wordpress, migration
+20190822-04, wordpress, troubleshooting
+20190827-01, google analytics, google tag manager
+20190827-02, wordpress, plugins
+20190828-01, hosting, shibboleth, authentication, integration, security, whitelist, metadata
+20190828-02, its, was, email, webmaster@gmu.edu, gmuweb@gmu.edu
+20190828-03, central authentication system
+20190828-04, central authentication system
+20190828-05, central authentication system
+20190905-01, materiell, web hosting, vendor, wpengine
+20190917-01, wordpress, theme, brand, standard
+20190918-02, email, mailing, unsubscribe, remove, please remove me, paperkarma
+20190924-01, regex, redirects, reference
+20191025-01, policy, policies, web hosting
+20191030-01, procedure, wpengine
+20191212-01, web hosting, external hosting, squarespace, domains, subdomains, dns
+20200129-01, wordpress, wpengine, uploads, increase max upload size
+20200129-02, wordpress, security
+20200916-01, dubbot, whitelist, ip addresses, qa
